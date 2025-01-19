@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\COMP367\\Lab1\\MyCoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7714E1F9-C7F9-4D66-93CB-BC7C6CB301D9}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\dell\\desktop\\comp367\\lab1\\mycoreapp\\mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7714E1F9-C7F9-4D66-93CB-BC7C6CB301D9}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7714E1F9-C7F9-4D66-93CB-BC7C6CB301D9}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\dell\\desktop\\comp367\\lab1\\mycoreapp\\mycoreapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7714E1F9-C7F9-4D66-93CB-BC7C6CB301D9}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\COMP367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\COMP367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T21:34:57.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\COMP367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\COMP367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:29:04.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
