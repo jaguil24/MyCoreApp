@@ -1,0 +1,4 @@
+# Ignore Visual Studio build folders
+obj/
+bin/
+Properties/
