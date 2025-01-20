@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\Dell\\Desktop\\COMP367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
               "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-19T21:34:57.497Z",
               "EditorCaption": ""
@@ -43,7 +43,8 @@
               "RelativeToolTip": "MyCoreApp\\Pages\\Privacy.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T21:29:04.868Z"
+              "WhenOpened": "2025-01-19T21:29:04.868Z",
+              "EditorCaption": ""
             }
           ]
         }
