@@ -1,0 +1,12 @@
+# Ignore build directories
+obj/
+bin/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio for Mac files
+.vscode/
