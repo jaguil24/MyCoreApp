@@ -3,8 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\COMP367\\Lab1\\MyCoreApp\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{053515D6-2D48-48B6-9272-50ACEDCBA9DE}|Solution Items{053515D6-2D48-48B6-9272-50ACEDCBA9DE}|C:\\Users\\Dell\\Desktop\\COMP367\\Lab1\\MyCoreApp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{053515D6-2D48-48B6-9272-50ACEDCBA9DE}|Solution Items{053515D6-2D48-48B6-9272-50ACEDCBA9DE}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A8791622-A634-4DFD-9B3F-C7CCD08918AB}|Solution Items{A8791622-A634-4DFD-9B3F-C7CCD08918AB}|C:\\Users\\Dell\\Desktop\\COMP367\\Lab1\\MyCoreApp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A8791622-A634-4DFD-9B3F-C7CCD08918AB}|Solution Items{A8791622-A634-4DFD-9B3F-C7CCD08918AB}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+>>>>>>> e0aaab58a3149aae1549ebaa07d98c9af9b78c55
     },
     {
       "AbsoluteMoniker": "D:0:0:{7714E1F9-C7F9-4D66-93CB-BC7C6CB301D9}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\dell\\desktop\\comp367\\lab1\\mycoreapp\\mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +39,11 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+<<<<<<< HEAD
               "WhenOpened": "2025-01-22T10:55:12.942Z",
+=======
+              "WhenOpened": "2025-01-20T08:39:22.178Z",
+>>>>>>> e0aaab58a3149aae1549ebaa07d98c9af9b78c55
               "EditorCaption": ""
             },
             {
